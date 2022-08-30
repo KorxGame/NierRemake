@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: b0757b76b8d06ca47aca960e42d3b2f6
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -3012632398955893946
+    second: pl0000_00064_ClimbLabber_SideDownStart0
+  - first:
+      74: -8687222259144555146
+    second: pl0000_00065_ClimbLabber_SideDownGround
+  - first:
+      74: -5688847854035754837
+    second: pl0000_00066_ClimbLabber_SideDownStart
+  - first:
+      74: -102112056681341094
+    second: pl0000_00067_ClimbLabber_SideDownStop
+  - first:
+      74: 2299850299306898142
+    second: pl0000_00068_ClimbLabber_SideDownIdle
+  - first:
+      74: 9175919630388808349
+    second: pl0000_00069_ClimbLabber_SideDownStart
+  - first:
+      74: -3985803401115132371
+    second: pl0000_00070_Climb_ladder_HangToIlde_RightHand
+  - first:
+      74: -898955147594469189
+    second: pl0000_00071_Climb_ladder_IdleToHang_LeftHand
+  - first:
+      74: -7159477863170890569
+    second: pl0000_00072_Climb_ladder_IdleToHang_RightHand
+  - first:
+      74: 3334074971707664664
+    second: pl0000_00073_Climb_ladder_End4
+  - first:
+      74: -7561328235312168273
+    second: pl0000_00074_JumpToClibLabber
+  - first:
+      74: -2069630724545595842
+    second: pl0000_00075__Climb_ladder_EndToGroud_rightHand
+  - first:
+      74: -3564978547047425459
+    second: pl0000_00076_ClimbLabber_SideDownStart1
+  - first:
+      74: 4371424360289793698
+    second: pl0000_00077_ClimbLabber_SideDownStart2
+  - first:
+      74: -7928824504956711067
+    second: pl0000_00128_Climb_ladder_end_BothHand
+  - first:
+      74: 937550468693874556
+    second: pl0000_00240_Climb_ladder_Start
+  - first:
+      74: 481998673584014696
+    second: pl0000_00241_Climb_ladder_End1_Lefthand
+  - first:
+      74: 4673273664430289669
+    second: pl0000_00242_Climb_ladder_End2_RightHand
+  - first:
+      74: 3929123977078186690
+    second: pl0000_00243_Climb_ladder_IdelLeftHand
+  - first:
+      74: -6279707348369371990
+    second: pl0000_00244_Climb_ladder_IdelRightHand
+  - first:
+      74: -2038703940984279162
+    second: pl0000_00245_Climb_ladder_RightHandUp
+  - first:
+      74: -5021151978051872199
+    second: pl0000_00246_Climb_ladder_LeftHandUp
+  - first:
+      74: 1497506604531238737
+    second: pl0000_00247_Climb_ladder_jump_leftStart
+  - first:
+      74: -4785223618553747185
+    second: pl0000_00248_Climb_ladder_jump_RightStart
+  - first:
+      74: 1546108549187210021
+    second: pl0000_00249_Climb_ladder_jump_BothStart
+  - first:
+      74: -2651555951029669225
+    second: pl0000_00250_Climb_ladder_jump_rightForce
+  - first:
+      74: -6704362925240908927
+    second: pl0000_00251_Climb_ladder_jump_rightForce
+  - first:
+      74: 7115817863739233724
+    second: pl0000_00252_Climb_ladder_jump_rightForce
+  - first:
+      74: 9217946535742123028
+    second: pl0000_00253_Climb_ladder_End3
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: bone-1
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: c66c52f77bc5e964490e65f9427c432d, type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 2
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

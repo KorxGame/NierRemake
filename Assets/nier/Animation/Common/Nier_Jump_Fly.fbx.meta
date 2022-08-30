@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 187a91fde604c1541923092d1b3e4f75
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -7790289394756040659
+    second: pl0000_00016_JumpUp
+  - first:
+      74: -7194801890819232756
+    second: pl0000_00017_jumpIdle
+  - first:
+      74: 7879971634351562564
+    second: pl0000_00018_JumpDown_
+  - first:
+      74: -7721035071384588544
+    second: pl0000_00020_Jump_SecondBack
+  - first:
+      74: -6915496507957572337
+    second: pl0000_00021_Jump_Second_Forward
+  - first:
+      74: -3161194720515977157
+    second: pl0000_00022_Jump_SecondForward Side
+  - first:
+      74: 3726438600062258703
+    second: pl0000_00023_Jump_Second_Forward
+  - first:
+      74: 3790666154712134157
+    second: pl0000_00024_JumpUp2
+  - first:
+      74: -4121688201402072211
+    second: pl0000_00025
+  - first:
+      74: 5702649867248494442
+    second: pl0000_00026
+  - first:
+      74: -9127003354830272780
+    second: pl0000_00027_JumpStar0
+  - first:
+      74: -7210573644030139022
+    second: pl0000_00028_RunToJump
+  - first:
+      74: -6094328071605802800
+    second: pl0000_00029_SprintToJump
+  - first:
+      74: -5298020801939889497
+    second: pl0000_00031_FlyIdelLong
+  - first:
+      74: -8022756660865989925
+    second: pl0000_00145_JumpIdle
+  - first:
+      74: 711637940725550971
+    second: pl0000_00146_JumpToGround_RollToIdle
+  - first:
+      74: 3667942569536991668
+    second: pl0000_00160_JumpUp
+  - first:
+      74: -2888644458835059065
+    second: pl0000_00161_JumpIdle2
+  - first:
+      74: 6880735691523545849
+    second: pl0000_00162_Jump_AirFly
+  - first:
+      74: -3779081280062820335
+    second: pl0000_00163_AirFly
+  - first:
+      74: 1956889163419323269
+    second: pl0000_00164_Jump_AirFly
+  - first:
+      74: 9182961440477120964
+    second: pl0000_00165_Ground
+  - first:
+      74: 2784353212684299212
+    second: pl0000_00166_Jump__AirFly
+  - first:
+      74: 4597606666807619345
+    second: pl0000_00167__AirFly
+  - first:
+      74: 5187234623063397683
+    second: pl0000_00144_JumpUp
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: bone-1
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: c66c52f77bc5e964490e65f9427c432d, type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 2
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
